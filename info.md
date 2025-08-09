@@ -50,7 +50,7 @@ ideas, designs, findings, and conclusions.
  based on your choice.  (You should read both papers though.)
 Summarize the main ideas, arguments, your own reflections, and any
 questions that you have.  This review needs to be submitted before
-the class. You are allowed to miss at most **N** reviews without
+the class. You are allowed to miss at most **5** reviews without
 receiving penalty. 
 
 * **Note for presentor:** If you are presenting this paper in the
@@ -96,12 +96,17 @@ presentations and contribute to post-presentation discussions.
 
 ## Late policy
 
-Your work is late if it is not turned in by the deadline.
+Late policy applies differently to review submissions and project submissions.
 
-* **10% will be deducted for late assignments each day after the due date**.
+* **For review submissions:** We **do not** accept late review
+submissions as you already get 5 wild cards.
+
+* **For project submissions:** Your work is late if it is not turned in by the deadline.
+
+  - **10% will be deducted for late submissions each day after the due date**.
 That is, if an assignment is late, we’ll grade it and scale the score by 0.9 if it is up to one day late, by 0.8 if it is up to two days late, and by 0.7 if it is up to three days late.
-* **Late assignments will only be accepted for 3 days after the due date.** Assignments submitted more than 3 days late will receive a zero. If you’re worried about being busy around the time of a HW submission, please plan ahead and get started early.
-* **Assignment that does not compile or run will receive at most 50% credit.**
+  - **Late submissions will only be accepted for 3 days after the due date.** Assignments submitted more than 3 days late will receive a zero. If you’re worried about being busy around the time of a HW submission, please plan ahead and get started early.
+  - **Assignment that does not compile or run will receive at most 50% credit.**
 
 > **IMPORTANT:** Please plan ahead and get started early! Debugging distributed systemscan be time-consuming.
 
@@ -116,17 +121,6 @@ Your grade will be calculated as follows:
 * Class participation: 10%
 * Presentation: 30%
 * Project: 50%
-
-
-### Grading rules
-
-The final grade is computed according to the following rules:
-
-* A+: >= 98%; A: \[93%, 98%); A-: \[90%, 93%)
-* B+: \[87%, 90%); B: \[83%, 87%); B-: \[80%, 83%)
-* C+: \[77%, 80%); C: \[73%, 77%); C-: \[70%, 73%)
-* D+: \[67%, 70%); D: \[63%, 67%); D-: \[60%, 63%)
-* F: < 60%
 
 
 ## Academic Integrity

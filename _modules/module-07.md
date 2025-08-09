@@ -14,4 +14,4 @@ title: Serverless storage
 
 : [Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage](https://www.usenix.org/conference/osdi18/presentation/kulkarni) **(optional)**{: .label .label-yellow }
   
-: **Checkpoint due**{: . .label .label-purple }
+: **Project Checkpoint due**{: . .label .label-purple }

@@ -23,5 +23,5 @@ title: Wrapping up
 
 12/10
 
-: **Final report due**{: .label .label-purple } 
+: **Project everything due**{: .label .label-purple } 
 

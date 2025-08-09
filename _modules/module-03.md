@@ -9,7 +9,7 @@ title: Cold starts
 
 : [Benchmarking, Analysis, and Optimization of Serverless Function Snapshots](https://arxiv.org/abs/2101.09355)
   
-: **Proposal due**{: . .label .label-purple }
+: **Project Proposal due**{: . .label .label-purple }
 
 
 **Week 5**

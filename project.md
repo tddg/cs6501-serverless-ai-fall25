@@ -69,7 +69,7 @@ engaging and the demo compelling?
 
 * **Week 2:** Team signup
 * **Week 4:** Proposal report submission
-* **Week 10:** Checkpoint report submission
+* **Week 9:** Checkpoint report submission
 * **Week 15-16:** Project presentation and report submission
 
 

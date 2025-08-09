@@ -1,0 +1,135 @@
+# Format of this document:
+# Each top-level key is an item that is referneced by any section schedule's "content" array
+# Each key has a "name" attribute (rendered on the calendar), a "page" attribute (which contains a link to the lesson) and an optional "type" attribute, which is a key into the _data/config.yml "types" dictionary.
+fMonday:
+  name: No class
+  type: holiday
+1a:
+  name: Lec1-Introduction
+  page: /lectures/lec1-intro
+2a:
+  name: Lec2-Go tutorial
+  page: /lectures/lec2-go-tutorial
+3a:
+  name: Lec3-Concurrency and parallelism
+  page: /lectures/lec3-parallelism-concurrency
+4a:
+  name: Lec4-MapReduce
+  page: /lectures/lec4-mapreduce
+5a:
+  name: Lec5-RPC
+  page: /lectures/lec5-rpc
+6a:
+  name: Lec6-RPC in Go and Lab 1 walkthru
+  page: /lectures/lec6-rpc-go
+7a:
+  name: Lec7-Google File System
+  page: /lectures/lec7-gfs
+8a:
+  name: Lec8a-Time and clocks I
+  page: /lectures/lec8-time-clocks
+8b:
+  name: Lec8b-Time and clocks II
+  page: /lectures/lec8-time-clocks
+9a:
+  name: Lec9a-Consistency I
+  page: /lectures/lec9-consistency-linearizability
+9b:
+  name: Lec9b-Consistency II
+  page: /lectures/lec9-consistency-linearizability
+10a:
+  name: Lec10-Paxos
+  page: /lectures/lec10-paxos
+11a:
+  name: Lec11a-Raft I
+  page: /lectures/lec11-raft
+11b:
+  name: Lec11b-Raft II
+  page: /lectures/lec11-raft
+fallReadingDay:
+  name: Fall Reading Day (no class)
+  type: holiday
+midtermReview:
+  name: Midterm review
+  page: /lectures/midterm-review
+midterm:
+  name: Midterm (<strong>3:30pm - 4:45pm</strong>)
+12a:
+  name: Lec12a-Cloud computing fundamentals I
+  page: /lectures/lec12-cloud-fundamentals
+12b:
+  name: Lec12b-Cloud computing fundamentals II
+  page: /lectures/lec12-cloud-fundamentals
+13a:
+  name: Lec13-Virtualization
+  page: /lectures/lec13-virtualization
+14a:
+  name: Lec14a-Serverless computing
+  page: /lectures/lec14-serverless-computing
+14b:
+  name: Lec14b-Serverless data analytics
+  page: /lectures/lec14-serverless-computing
+14c:
+  name: Lec14c-Serverless function scheduling
+  page: /lectures/lec14-serverless-computing
+14d:
+  name: Lec14b-Serverless function storage
+  page: /lectures/lec14-serverless-computing
+15a:
+  name: Lec15a-Amazon Dynamo I
+  page: /lectures/lec15-dynamo
+15b:
+  name: Lec15b-Amazon Dynamo II
+  page: /lectures/lec15-dynamo
+16a:
+  name: Lec16-Serverless function store
+  page: /lectures/lec16-serverless-store
+17a:
+  name: Lec15-Guest lecture (AWS AI, by Dr. Zhen Jia from AWS)
+  page: /lectures/lec15-aws-ai
+18a:
+  name: Lec17-AWS S3
+  page: /lectures/lec17-s3
+thanksGiving:
+  name: Thanksgiving recess (no class)
+  type: holiday
+finalReview:
+  name: Final review
+  page: /lectures/final-review
+finalExam:
+  name: Final exam (<strong>2:00pm - 4:00pm</strong>)
+19a:
+  name: Lec19a-Spark I
+  page: /lectures/lec19-spark
+19b:
+  name: Lec19a-Spark II
+  page: /lectures/lec19-spark
+lab0:
+  name: Lab 0
+  type: deadline
+  page: /labs/lab0
+lab1:
+  name: Lab 1
+  type: deadline
+  page: /labs/lab1
+lab2:
+  name: Lab 2
+  type: deadline
+  page: /labs/lab2
+lab3a:
+  name: Lab 3a
+  type: deadline
+  page: /labs/lab3
+lab3b:
+  name: Lab 3b
+  type: deadline
+  page: /labs/lab3
+lab4:
+  name: Lab 4
+  type: deadline
+  page: /labs/lab4
+readingDay:
+  name: Reading days
+  type: holiday
+workOnProj:
+  name: Work on project (class does not meet)

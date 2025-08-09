@@ -1,0 +1,33 @@
+deadlines:
+  '3':
+    Wed:
+      date: 2024/09/11 23:59pm
+      content: lab0
+  '5':
+    Wed:
+      date: ~~2024/09/25 23:59pm~~
+      content: lab1
+  '5':
+    Fri:
+      date: 2024/09/27 23:59pm
+      content: lab1
+  '8':
+    Wed:
+      date: 2024/10/16 23:59pm
+      content: lab2
+  '11':
+    Wed:
+      date: 2024/11/06 23:59pm
+      content: lab3a
+  '14':
+    Mon:
+      date: 2024/11/25 23:59pm
+      content: lab3b
+dates:
+  firstMonday: 2024/08/26
+  numWeeks: 16
+types:
+  default:
+    className: lesson
+  holiday:
+    className: holiday

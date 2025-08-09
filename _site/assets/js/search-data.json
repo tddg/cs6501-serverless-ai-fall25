@@ -1,0 +1,290 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/announcements/",
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Aug 8 &middot; 0 min read . | Welcome to CS 6501 Serverless AI! | . ",
+    "url": "/cs6501-serverless-ai-fall25/announcements/",
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Calendar",
+    "title": "Weekly Calendar",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/cs6501-serverless-ai-fall25/calendar/#weekly-calendar",
+    "relUrl": "/calendar/#weekly-calendar"
+  },"3": {
+    "doc": "Calendar",
+    "title": "Monday",
+    "content": ". | Lecture 11:00 AM–12:15 PM Rice 340 | Office Hours 2:30 PM–3:30 PM Zoom | . | ",
+    "url": "/cs6501-serverless-ai-fall25/calendar/",
+    "relUrl": "/calendar/"
+  },"4": {
+    "doc": "Calendar",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "/cs6501-serverless-ai-fall25/calendar/",
+    "relUrl": "/calendar/"
+  },"5": {
+    "doc": "Calendar",
+    "title": "Wednesday",
+    "content": ". | Lecture 11:00 AM–12:15 PM Rice 340 | Office Hours 2:30 PM–3:30 PM Zoom | . | ",
+    "url": "/cs6501-serverless-ai-fall25/calendar/",
+    "relUrl": "/calendar/"
+  },"6": {
+    "doc": "Calendar",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/cs6501-serverless-ai-fall25/calendar/",
+    "relUrl": "/calendar/"
+  },"7": {
+    "doc": "Calendar",
+    "title": "Friday",
+    "content": "| . ",
+    "url": "/cs6501-serverless-ai-fall25/calendar/",
+    "relUrl": "/calendar/"
+  },"8": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/calendar/",
+    "relUrl": "/calendar/"
+  },"9": {
+    "doc": "CS6501, Fall 2025",
+    "title": "CS6501, Fall’25: Serverless AI",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/#cs6501-fall25-serverless-ai",
+    "relUrl": "/#cs6501-fall25-serverless-ai"
+  },"10": {
+    "doc": "CS6501, Fall 2025",
+    "title": "Week 1 Announcement",
+    "content": "Aug 8 &middot; 0 min read . | Welcome to CS 6501 Serverless AI! | . Announcements . ",
+    "url": "/cs6501-serverless-ai-fall25/",
+    "relUrl": "/"
+  },"11": {
+    "doc": "CS6501, Fall 2025",
+    "title": "Overview",
+    "content": "Serverless computing has emerged as a transformative paradigm in cloud computing, offering elastic pay-per-use compute abstractions that free developers from managing infrastructure. At the same time, the rapid advancement of artificial intelligence (AI), particularly large language model (LLM) serving and inference, has introduced new challenges in cloud computing and systems, ranging from resource efficiency to scalability and performance. The confluence of these two critical domains is giving rise to Serverless + AI: a new design space where serverless platforms are reimagined to support modern AI workloads. This course is a graduate-level seminar-based course, exploring both foundational and cutting-edge research in serverless computing and its intersection with AI systems. The course consists of three components. The first two focus on paper reading &amp; in-class presentations and discussions, while the third centers on building a demonstrable MVP that addresses a practical problem in serverless AI. | Serverless computing and Function-as-a-Service: In this part, we will study the design and implementation of serverless architectures and a series of well-known problems of modern FaaS platforms (including cold starts, virtualization, state management, fault tolerance, and applications, etc.) | Serverless systems for AI applications: In this part, we will explore how serverless computing is being reimagined / extended to support emerging AI applications, such as serverless LLM inference, serverless fine-tuning, and on-demand GPU allocation, etc. | Project: The most exciting part of this course is a term-long (research) project where you will design and build a serverless AI system that tackles a real-world pain point. Why this is fun: you will work side-by-side with a state-of-the-art AI coding agent—to bring your MVP to life. The instructor will supply you with a list of interesting project ideas—some with a baseline codebase he built for fun (and maybe a bit for profit :-) | . ",
+    "url": "/cs6501-serverless-ai-fall25/#overview",
+    "relUrl": "/#overview"
+  },"12": {
+    "doc": "CS6501, Fall 2025",
+    "title": "Lecture Info",
+    "content": ". | Instructor: Yue Cheng | Meeting time: MW 11am - 12:15pm | Location: Rice Hall 340 | . ",
+    "url": "/cs6501-serverless-ai-fall25/#lecture-info",
+    "relUrl": "/#lecture-info"
+  },"13": {
+    "doc": "CS6501, Fall 2025",
+    "title": "Topic List",
+    "content": "Serverless computing and FaaS: . | Introduction | Function-as-a-Service platforms &amp; workloads | Cold starts | Stateful serverless computing | Serverless parallel computing &amp; programming | Serverless applications | Serverless storage | . LLMs and serverless AI: . | LLM serving . | Key-value cache management | Prefill vs. decode | Parallelism | Cloud LLM serving | . | Serverless AI . | Serverless LLM in the wild | Serverless AI services | Serverless AI infrastructure | . | . ",
+    "url": "/cs6501-serverless-ai-fall25/#topic-list",
+    "relUrl": "/#topic-list"
+  },"14": {
+    "doc": "CS6501, Fall 2025",
+    "title": "Prerequisite",
+    "content": ". | CS 4414 (Operating Systems), CS 4740 / CS 6111 (Cloud Computing), or other related systems courses. | Hands-on system programming skills are strongly recommended. | . | . ",
+    "url": "/cs6501-serverless-ai-fall25/#prerequisite",
+    "relUrl": "/#prerequisite"
+  },"15": {
+    "doc": "CS6501, Fall 2025",
+    "title": "CS6501, Fall 2025",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/",
+    "relUrl": "/"
+  },"16": {
+    "doc": "Syllabus",
+    "title": "Course Syllabus",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/info/#course-syllabus",
+    "relUrl": "/info/#course-syllabus"
+  },"17": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | Reading | Reviews | Presentation | Class Participation | Late policy | Grading . | Grading rules | . | Academic Integrity | Students with disabilities or learning needs | . ",
+    "url": "/cs6501-serverless-ai-fall25/info/#table-of-contents",
+    "relUrl": "/info/#table-of-contents"
+  },"18": {
+    "doc": "Syllabus",
+    "title": "Reading",
+    "content": "There are no textbooks. Required readings are mostly in the form of seminal research papers on serverless computing and AI systems. Occasionally they come from online documentations. There are several books that might be useful: . | Distributed Systems 3rd edition (2017), by Maarten van Steen and Andrew S. Tenenbaum (free book). | Operating Systems: Three Easy Pieces (OSTEP), by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Aug, 2018 v 1.00 (free book). | . ",
+    "url": "/cs6501-serverless-ai-fall25/info/#reading",
+    "relUrl": "/info/#reading"
+  },"19": {
+    "doc": "Syllabus",
+    "title": "Reviews",
+    "content": "Students are required to review assigned readings thoroughly. These reading materials will be presented and discussed in class. This class uses the following review protocol: . | Reading: Before each class, we will discuss two papers. You should read these two papers, making sure to understand the key ideas, designs, findings, and conclusions. | Review: Prepare a one-page review for one of the papers based on your choice. (You should read both papers though.) Summarize the main ideas, arguments, your own reflections, and any questions that you have. This review needs to be submitted before the class. You are allowed to miss at most N reviews without receiving penalty. | Note for presentor: If you are presenting this paper in the class, you don’t need to submit the review for this class (this is not counted as missing reviews). | AI-tool policy: While we acknowledge the convenience of AI writing assistants like ChatGPT in the academic domain, it is crucial for students to cultivate their critical thinking and writing skills. The review should reflect your own experience and insight into the content. Students may use AI tools for brainstorming initial ideas or checking grammar errors, but the final reviews submitted must be authored by the student. Students are expected to elaborate their reviews in the class. | . ",
+    "url": "/cs6501-serverless-ai-fall25/info/#reviews",
+    "relUrl": "/info/#reviews"
+  },"20": {
+    "doc": "Syllabus",
+    "title": "Presentation",
+    "content": "Each student will be assigned multiple research papers (based on class size) to present during the semester. | Preparation: Prepare a 25-30 minutes presentation on the paper, summarizing the research problem, methods, results, and implications. Please send the slides to the instructor the week before the presentation. | Discussion: Be prepared to answer questions and lead a discussion about the paper after your presentation. | . ",
+    "url": "/cs6501-serverless-ai-fall25/info/#presentation",
+    "relUrl": "/info/#presentation"
+  },"21": {
+    "doc": "Syllabus",
+    "title": "Class Participation",
+    "content": ". | Attendance: Regular attendance is expected and will be taken into consideration when grading class participation. | Engagement: You are expected to actively participate in class discussions by asking questions, sharing your thoughts, responding to your classmates’ ideas, and contributing to an inclusive and respectful classroom environment. | Peer feedback: Provide constructive feedback during your peers’ presentations and contribute to post-presentation discussions. | . ",
+    "url": "/cs6501-serverless-ai-fall25/info/#class-participation",
+    "relUrl": "/info/#class-participation"
+  },"22": {
+    "doc": "Syllabus",
+    "title": "Late policy",
+    "content": "Your work is late if it is not turned in by the deadline. | 10% will be deducted for late assignments each day after the due date. That is, if an assignment is late, we’ll grade it and scale the score by 0.9 if it is up to one day late, by 0.8 if it is up to two days late, and by 0.7 if it is up to three days late. | Late assignments will only be accepted for 3 days after the due date. Assignments submitted more than 3 days late will receive a zero. If you’re worried about being busy around the time of a HW submission, please plan ahead and get started early. | Assignment that does not compile or run will receive at most 50% credit. | . IMPORTANT: Please plan ahead and get started early! Debugging distributed systemscan be time-consuming. For fairness to all, there are no exceptions to the above rules. ",
+    "url": "/cs6501-serverless-ai-fall25/info/#late-policy",
+    "relUrl": "/info/#late-policy"
+  },"23": {
+    "doc": "Syllabus",
+    "title": "Grading",
+    "content": "Your grade will be calculated as follows: . | Reviews: 10% | Class participation: 10% | Presentation: 30% | Project: 50% | . Grading rules . The final grade is computed according to the following rules: . | A+: &gt;= 98%; A: [93%, 98%); A-: [90%, 93%) | B+: [87%, 90%); B: [83%, 87%); B-: [80%, 83%) | C+: [77%, 80%); C: [73%, 77%); C-: [70%, 73%) | D+: [67%, 70%); D: [63%, 67%); D-: [60%, 63%) | F: &lt; 60% | . ",
+    "url": "/cs6501-serverless-ai-fall25/info/#grading",
+    "relUrl": "/info/#grading"
+  },"24": {
+    "doc": "Syllabus",
+    "title": "Academic Integrity",
+    "content": "The School relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, nor shall they tolerate those who do. We recognize that even one honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of honor will benefit every member of the community both while enrolled in the School of Data Science and in the future. Students are expected to be familiar with the university honor code, including the section on academic fraud. ",
+    "url": "/cs6501-serverless-ai-fall25/info/#academic-integrity",
+    "relUrl": "/info/#academic-integrity"
+  },"25": {
+    "doc": "Syllabus",
+    "title": "Students with disabilities or learning needs",
+    "content": "It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations. Please visit their website for information on this process and to apply for services online. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together. ",
+    "url": "/cs6501-serverless-ai-fall25/info/#students-with-disabilities-or-learning-needs",
+    "relUrl": "/info/#students-with-disabilities-or-learning-needs"
+  },"26": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/info/",
+    "relUrl": "/info/"
+  },"27": {
+    "doc": "Project",
+    "title": "Project Overview",
+    "content": "As a core component of this course, each student is required to complete a course project. The project offers students the opportunity to delve deeper into a specific topic related to serverless computing and AI systems, addressing a practical pain point in real world. We will provide necessary resources, including LLM/API credit and cloud infrastructure. More details will be shared soon… . ",
+    "url": "/cs6501-serverless-ai-fall25/project/#project-overview",
+    "relUrl": "/project/#project-overview"
+  },"28": {
+    "doc": "Project",
+    "title": "Requirements",
+    "content": ". | Team: Form a team of two members to start the project. Contact the instructor if you need help in finding your teammates. | Topics: You are highly suggested to choose a topic from the instructor’s project idea list. We prepared a list of big topics where each big topic is divided into multiple smaller, palatable projects that are self-contained while correlated with each other. | Proposal report: Submit a brief project proposal outlining your chosen topic, your research questions, and a preliminary outline of your design. The proposal should be 1-2 pages long. | Checkpoint report: Submit a short checkpoint report describing what you have accomplished (implementation progress, challenges encountered, preliminary testing/validation results). The checkpoint report should be 2-3 pages long. | Final report: Write a report summarizing your findings. The report should include an introduction to your topic, a summary of your design, implementation, evaluation, and findings, and a conclusion discussing the implications of your work for serverless AI. There is no strict requirement on report length. | Project presentation: Prepare a 10-15 minute (tentative, and will be determined by class size) presentation to share your findings with the class. You should aim to make your presentation accessible to all students, regardless of their familiarity with your specific topic. You are highly encouraged to include a live (or video-recorded) demo in your final presentation. | . ",
+    "url": "/cs6501-serverless-ai-fall25/project/#requirements",
+    "relUrl": "/project/#requirements"
+  },"29": {
+    "doc": "Project",
+    "title": "Assessment Criteria",
+    "content": "Your project will be assessed based on the following criteria: . | Depth of understanding: Does your project demonstrate a thorough understanding of your chosen topic? | Quality of deliverables: . | A demonstrable MVP: How complete, robust, practical, and efficient is your system? | A complete report: Is your report well-structured, clearly written, and properly referenced? | Presentation &amp; demo: Can you effectively communicate and pitch your idea and product to the class? Is the presentation engaging and the demo compelling? | . | . ",
+    "url": "/cs6501-serverless-ai-fall25/project/#assessment-criteria",
+    "relUrl": "/project/#assessment-criteria"
+  },"30": {
+    "doc": "Project",
+    "title": "Project Milestones",
+    "content": ". | Week 2: Team signup | Week 4: Proposal report submission | Week 10: Checkpoint report submission | Week 15-16: Project presentation and report submission | . ",
+    "url": "/cs6501-serverless-ai-fall25/project/#project-milestones",
+    "relUrl": "/project/#project-milestones"
+  },"31": {
+    "doc": "Project",
+    "title": "Project",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/project/",
+    "relUrl": "/project/"
+  },"32": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": "TBD . ",
+    "url": "/cs6501-serverless-ai-fall25/resources/",
+    "relUrl": "/resources/"
+  },"33": {
+    "doc": "Schedule",
+    "title": "Course Schedule",
+    "content": "Being less concrete further out, the course scheduling is tentative and subject to changes. ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#course-schedule",
+    "relUrl": "/schedule/#course-schedule"
+  },"34": {
+    "doc": "Schedule",
+    "title": "Introduction",
+    "content": "Week 1 . 08/27 Course introduction Week 2 . 09/01 Cloud computing 09/03 Serverless computing Team signup due . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#introduction",
+    "relUrl": "/schedule/#introduction"
+  },"35": {
+    "doc": "Schedule",
+    "title": "Function-as-a-Service platforms &amp; workloads",
+    "content": "Week 3 . 09/08 Peeking Behind the Curtains of Serverless Platforms Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider . 09/10 Firecracker: Lightweight Virtualization for Serverless Applications . On-demand Container Loading in AWS Lambda . Week 4 . 09/15 How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads . Characterizing Serverless Platforms with ServerlessBench . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#function-as-a-service-platforms-workloads",
+    "relUrl": "/schedule/#function-as-a-service-platforms-workloads"
+  },"36": {
+    "doc": "Schedule",
+    "title": "Cold starts",
+    "content": "09/17 Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting . Benchmarking, Analysis, and Optimization of Serverless Function Snapshots . Proposal due . Week 5 . 09/22 SEUSS: skip redundant paths to make serverless fast . Serverless Cold Starts and Where to Find Them . 09/24 SAND: Towards High-Performance Serverless Computing . SOCK: Rapid Task Provisioning with Serverless-Optimized Containers . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#cold-starts",
+    "relUrl": "/schedule/#cold-starts"
+  },"37": {
+    "doc": "Schedule",
+    "title": "Stateful serverless computing",
+    "content": "Week 6 . 09/29 Faasm: Lightweight Isolation for Efficient Stateful Serverless Computing . Cloudburst: Stateful Functions-as-a-Service . 10/01 Fault-tolerant and transactional stateful serverless workflows . Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#stateful-serverless-computing",
+    "relUrl": "/schedule/#stateful-serverless-computing"
+  },"38": {
+    "doc": "Schedule",
+    "title": "Serverless parallel computing &amp; programming",
+    "content": "Week 7 . 10/06 Occupy the Cloud: Distributed Computing for the 99% . From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers . 10/08 Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure . Wukong: a scalable and locality-enhanced framework for serverless parallel computing . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#serverless-parallel-computing-programming",
+    "relUrl": "/schedule/#serverless-parallel-computing-programming"
+  },"39": {
+    "doc": "Schedule",
+    "title": "Serverless applications",
+    "content": "Week 8 . 10/13 Reading day (no class) . 10/15 Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads . Sprocket: A Serverless Video Processing Framework . Week 9 . 10/20 Lambada: Interactive Data Analytics on Cold Data using Serverless Cloud Infrastructure . Towards Demystifying Serverless Machine Learning Training . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#serverless-applications",
+    "relUrl": "/schedule/#serverless-applications"
+  },"40": {
+    "doc": "Schedule",
+    "title": "Serverless storage",
+    "content": "10/22 Pocket: Elastic Ephemeral Storage for Serverless Analytics . InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache . Boki: Stateful Serverless Computing with Shared Logs (optional) . Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage (optional) . Checkpoint due . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#serverless-storage",
+    "relUrl": "/schedule/#serverless-storage"
+  },"41": {
+    "doc": "Schedule",
+    "title": "LLM serving",
+    "content": "Week 10 . 10/27 Efficient Memory Management for Large Language Model Serving with PagedAttention . InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management . 10/29 Orca: A Distributed Serving System for Transformer-Based Generative Models . DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving . Week 11 . 11/03 Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve . AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving . 11/05 SpotServe: Serving Generative Large Language Models on Preemptible Instances . Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot . Serving DNNs like Clockwork: Performance Predictability from the Bottom Up (optional) . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#llm-serving",
+    "relUrl": "/schedule/#llm-serving"
+  },"42": {
+    "doc": "Schedule",
+    "title": "Serverless AI",
+    "content": "Week 12 . 11/10 ServerlessLLM: Low-Latency Serverless Inference for Large Language Models . DEEPSERVE: Serverless Large Language Model Serving at Scale . 11/12 Towards Swift Serverless LLM Cold Starts with ParaServe . INFaaS: Automated Model-less Inference Serving . Week 13 . 11/17 Parrot: Efficient Serving of LLM-based Applications with Semantic Variable . SLoRA: Scalable Serving of Thousands of LoRA Adapters . Punica: Multi-Tenant LoRA Serving (optional) . 11/19 BlitzScale: Fast and Live Large Model Autoscaling with O(1) Host Caching . PhoenixOS: Concurrent OS-level GPU Checkpoint and Restore with Validated Speculation . Week 14 . 11/24 Hack day (no class) . 11/26 Thanksgiving recess (no class) . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#serverless-ai",
+    "relUrl": "/schedule/#serverless-ai"
+  },"43": {
+    "doc": "Schedule",
+    "title": "Wrapping up",
+    "content": "Week 15 . 12/01 Project presentation I . 12/03 Project presentation II . Week 16 . 12/08 Project presentation III . 12/10 Final report due . ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/#wrapping-up",
+    "relUrl": "/schedule/#wrapping-up"
+  },"44": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/schedule/",
+    "relUrl": "/schedule/"
+  },"45": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/cs6501-serverless-ai-fall25/staff/",
+    "relUrl": "/staff/"
+  },"46": {
+    "doc": "Staff",
+    "title": "Office Hours",
+    "content": "The time and location of office hours are listed as follows. Links to join the instructor’s office hours are posted in Canvas. ",
+    "url": "/cs6501-serverless-ai-fall25/staff/#office-hours",
+    "relUrl": "/staff/#office-hours"
+  },"47": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Yue Cheng . mrz7dp@virginia.edu . Office Hours: MW 2:30pm-3:30pm, Zoom (link on Canvas) . ",
+    "url": "/cs6501-serverless-ai-fall25/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  }
+}

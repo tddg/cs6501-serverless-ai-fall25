@@ -35,7 +35,7 @@ by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Aug, 2018 v 1.00
 (**free book**).
 
 
-## Reviews
+## Review
 
 Students are required to review assigned readings thoroughly. These
 reading materials will be presented and discussed in class. 

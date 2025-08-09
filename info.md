@@ -105,10 +105,14 @@ submissions as you already get 5 wild cards.
 
   - **10% will be deducted for late submissions each day after the due date**.
 That is, if an assignment is late, we’ll grade it and scale the score by 0.9 if it is up to one day late, by 0.8 if it is up to two days late, and by 0.7 if it is up to three days late.
-  - **Late submissions will only be accepted for 3 days after the due date.** Assignments submitted more than 3 days late will receive a zero. If you’re worried about being busy around the time of a HW submission, please plan ahead and get started early.
+  - **Late submissions will only be accepted for 3 days after the due
+date.** Assignments submitted more than 3 days late will receive
+a zero. If you’re worried about being busy around the time of a HW
+submission, please plan ahead and get started early.
   - **Assignment that does not compile or run will receive at most 50% credit.**
 
-> **IMPORTANT:** Please plan ahead and get started early! Debugging distributed systemscan be time-consuming.
+> **IMPORTANT:** Please plan ahead and get started early! Debugging
+distributed systems can be time-consuming, even with AI's help. 
 
 **For fairness to all, there are no exceptions to the above rules.**
 

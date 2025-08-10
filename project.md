@@ -12,8 +12,9 @@ opportunity to delve deeper into a specific topic related to
 serverless computing and AI systems, addressing a practical pain
 point in real world.
 
-We will provide necessary resources, including LLM/API credit and
-cloud infrastructure. More details will be shared soon...
+We will provide necessary resources, including {coding agent CLI,
+LLM/API credit and cloud infrastructure}. More details will be shared
+soon...
 
 
 # Requirements

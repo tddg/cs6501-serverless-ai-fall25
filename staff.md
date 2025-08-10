@@ -13,6 +13,8 @@ The time and location of office hours are listed as follows.
 
 Links to join the instructor's office hours are posted in Canvas.
 
+Information about GTA is TBD...
+
 
 ## Instructors
 

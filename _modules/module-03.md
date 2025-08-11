@@ -20,7 +20,7 @@ title: Cold starts
 
 : [Fork in the Road: Reflections and Optimizations for Cold Start Latency in Production Serverless Systems](https://www.usenix.org/conference/osdi25/presentation/chai-xiaohu)
 
-: [SEUSS: skip redundant paths to make serverless fast](https://www.cs.bu.edu/~jappavoo/Resources/Papers/seuss.pdf) **(optional**{: . .label .label-yellow }
+: [SEUSS: skip redundant paths to make serverless fast](https://www.cs.bu.edu/~jappavoo/Resources/Papers/seuss.pdf) **(optional)**{: . .label .label-yellow }
 
 09/24
 

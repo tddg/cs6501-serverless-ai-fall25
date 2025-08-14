@@ -55,8 +55,8 @@ will work side-by-side with a **state-of-the-art AI coding
 agent**---to bring your MVP to life. The instructor will supply you
 with a list of interesting project ideas---some with a baseline
 codebase he built for fun (and maybe a bit for profit :-)
-  - We will provide necessary resources, including {coding agent CLI,
-LLM/API credit and cloud infrastructure}. More details will be
+  - We will provide necessary resources, including **{coding agent CLI,
+LLM/API credit and cloud infrastructure}**. More details will be
 shared soon... 
 
 

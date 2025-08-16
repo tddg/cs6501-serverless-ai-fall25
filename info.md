@@ -42,9 +42,9 @@ reading materials will be presented and discussed in class.
 
 This class uses the following review protocol:
 
-* **Reading:** Before each class, we will discuss two papers. You
- should read these two papers, making sure to understand the key
-ideas, designs, findings, and conclusions. 
+* **Reading:** During each class, we will discuss two papers. You 
+should read these two papers before the class, making sure to
+understand the key ideas, designs, findings, and conclusions. 
 
 * **Review:** Prepare a one-page review for **one** of the papers
  based on your choice.  (You should read both papers though.)

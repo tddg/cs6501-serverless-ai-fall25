@@ -57,7 +57,7 @@ receiving penalty.
 class, you **don’t** need to submit the review for this class (this
 is not counted as missing reviews). 
 
-* **AI-tool policy:** While we acknowledge the convenience of AI
+* **AI-tool policy for paper reviews:** While we acknowledge the convenience of AI
 writing assistants like ChatGPT in the academic domain, it is
 crucial for students to cultivate their critical thinking and
 writing skills. The review should reflect your own experience and

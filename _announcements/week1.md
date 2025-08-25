@@ -1,9 +1,10 @@
 ---
 title: Week 1 Announcement
 week: 1
-date: 2025-08-08
+date: 2025-08-25
 ---
 
 * Welcome to CS 6501 Serverless AI!
+* Fill out [**background survey**](https://forms.gle/ZszZC3BZkChptrRy9) before 08/27. 
 
 {: .fs-5 }

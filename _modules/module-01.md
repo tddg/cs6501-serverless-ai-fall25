@@ -7,6 +7,8 @@ title: Introduction
 08/27
 : [Course introduction]()
 
+: Fill out [**background survey**](https://forms.gle/ZszZC3BZkChptrRy9)
+
 
 
 **Week 2**

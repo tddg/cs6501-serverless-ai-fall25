@@ -26,13 +26,13 @@ AI systems. Occasionally they come from online documentations.
 
 There are several books that *might* be useful:
 
-* [Distributed Systems 3rd edition
-(2017)](https://www.distributed-systems.net/index.php/books/ds3/),
-by Maarten van Steen and Andrew S. Tenenbaum (**free book**).
-
 * [Operating Systems: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/), 
 by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Aug, 2018 v 1.00
 (**free book**).
+
+* [Distributed Systems 3rd edition
+(2017)](https://www.distributed-systems.net/index.php/books/ds3/),
+by Maarten van Steen and Andrew S. Tenenbaum (**free book**).
 
 
 ## Review

@@ -7,7 +7,7 @@ title: Introduction
 08/27
 : [Course introduction]()
 
-: Fill out [**background survey**](https://forms.gle/ZszZC3BZkChptrRy9)(:target="\_blank")
+: Fill out [**background survey**](https://forms.gle/ZszZC3BZkChptrRy9){:target="\_blank"}
 
 
 

@@ -46,23 +46,24 @@ This class uses the following review protocol:
 should read these two papers before the class, making sure to
 understand the key ideas, designs, findings, and conclusions. 
 
-* **Review:** Prepare a one-page review for **one** of the papers
- based on your choice.  (You should read both papers though.)
-Summarize the main ideas, arguments, your own reflections, and any
-questions that you have.  This review needs to be submitted before
-the class. You are allowed to miss at most **5** reviews without
-receiving penalty. 
+* **Survey:** Fill out both surveys for the papers of that class. 
+The survey needs to be submitted before the class. You are allowed 
+to miss at most **5** reviews without receiving penalty.
 
-* **Note for presentor:** If you are presenting this paper in the
+* **Note for Scriber:** Sign up as a paper scriber to capture the discussions
+of a paper. You should sign up as scriber for at least 3 paper
+presentations.
+
+* **Note for Presentor:** If you are presenting this paper in the
 class, you **don’t** need to submit the review for this class (this
 is not counted as missing reviews). 
 
-* **AI-tool policy for paper reviews:** While we acknowledge the convenience of AI
-writing assistants like ChatGPT in the academic domain, it is
-crucial for students to cultivate their critical thinking and
-writing skills. The review should reflect your own experience and
-insight into the content. Students may use AI tools for
-brainstorming initial ideas or checking grammar errors, but the
+* **AI-tool policy for paper reviews:** While we acknowledge the 
+convenience of AI writing assistants like ChatGPT in the academic
+domain, it is crucial for students to cultivate their critical
+thinking and writing skills. The review should reflect your own
+experience and insight into the content. Students may use AI tools
+for brainstorming initial ideas or checking grammar errors, but the
 final reviews submitted **must** be authored by the student. Students
 are expected to elaborate their reviews in the class.
 
@@ -74,7 +75,8 @@ class size) to present during the semester.
 
 * **Preparation:** Prepare a 25-30 minutes presentation on the paper,
 summarizing the research problem, methods, results, and implications.
-Please send the slides to the instructor the week before the presentation.
+Please send the slides to the instructor at least 3 days before the
+presentation.
 
 * **Discussion:** Be prepared to answer questions and lead a discussion
 about the paper after your presentation. 

@@ -1,5 +1,5 @@
 ---
-title: Serverless parallel computing & programming
+title: Serverless applications (parallel computing & programming)
 ---
 
 

@@ -58,14 +58,15 @@ presentations.
 class, you **don’t** need to submit the review for this class (this
 is not counted as missing reviews). 
 
-* **AI-tool policy for paper reviews:** While we acknowledge the 
+* **AI-tool policy for paper surveys:** While we acknowledge the 
 convenience of AI writing assistants like ChatGPT in the academic
 domain, it is crucial for students to cultivate their critical
-thinking and writing skills. The review should reflect your own
-experience and insight into the content. Students may use AI tools
-for brainstorming initial ideas or checking grammar errors, but the
-final reviews submitted **must** be authored by the student. Students
-are expected to elaborate their reviews in the class.
+thinking and writing skills. The response to survey questions should
+reflect your own experience and insight into the content. Students
+may use AI tools for brainstorming initial ideas or checking grammar
+errors, but the surveys submitted **must** be authored by the
+student. Students are expected to elaborate their survey responses in
+the class.
 
 
 ## Presentation

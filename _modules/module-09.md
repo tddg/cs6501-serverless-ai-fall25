@@ -1,53 +1,27 @@
 ---
-title: Serverless AI
+title: Wrapping up
 ---
 
 
-**Week 12**
+**Week 15**
 
-11/10
+12/01
 
-: [ServerlessLLM: Low-Latency Serverless Inference for Large Language Models](https://www.usenix.org/conference/osdi24/presentation/fu)
+: **Project presentation I**{: .label .label-red}
 
-: [DEEPSERVE: Serverless Large Language Model Serving at Scale](https://www.usenix.org/conference/atc25/presentation/hu-junhao)
+12/03
 
-
-11/12
-
-: [Towards Swift Serverless LLM Cold Starts with ParaServe](https://arxiv.org/pdf/2502.15524)
-
-: [INFaaS: Automated Model-less Inference Serving](https://www.usenix.org/conference/atc21/presentation/romero)
+: **Project presentation II**{: .label .label-red}
 
 
 
-**Week 13**
+**Week 16**
 
-11/17
+12/08
 
-: [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan)
+: **Project presentation III**{: .label .label-red}
 
-: [SLoRA: Scalable Serving of Thousands of LoRA Adapters](https://proceedings.mlsys.org/paper_files/paper/2024/file/906419cd502575b617cc489a1a696a67-Paper-Conference.pdf)
+12/10
 
-: [Punica: Multi-Tenant LoRA Serving](https://proceedings.mlsys.org/paper_files/paper/2024/file/054de805fcceb78a201f5e9d53c85908-Paper-Conference.pdf) **(optional)**{: .label .label-yellow }
-
-
-11/19
-
-: [BlitzScale: Fast and Live Large Model Autoscaling with O(1) Host Caching](https://www.usenix.org/conference/osdi25/presentation/zhang-dingyan)
-
-: [PhoenixOS: Concurrent OS-level GPU Checkpoint and Restore with Validated Speculation](https://arxiv.org/abs/2405.12079)
-
-
-
-**Week 14**
-
-11/24
-
-: **Hack day (no class)**{: .label .label-blue }
-
-11/26
-
-: **Thanksgiving recess (no class)**{: .label .label-green }
-
-
+: **Project everything due**{: .label .label-purple } 
 

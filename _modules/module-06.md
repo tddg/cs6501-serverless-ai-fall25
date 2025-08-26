@@ -1,29 +1,17 @@
 ---
-title: Serverless applications
+title: Serverless storage
 ---
 
 
-**Week 8**
+10/22
 
-10/13
+: [Pocket: Elastic Ephemeral Storage for Serverless Analytics](https://www.usenix.org/conference/osdi18/presentation/klimovic)
 
-: **Reading day (no class)**{: .label .label-green }
-
-
-10/15
-
-: **Midterm Presentation**{: .label .label-purple} Project Reflection
+: [InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache](https://www.usenix.org/conference/fast20/presentation/wang-ao)
 
 
-**Week 9**
+: [Boki: Stateful Serverless Computing with Shared Logs](https://dl.acm.org/doi/10.1145/3477132.3483541) **(optional)**{: .label .label-yellow }
 
-10/20
-
-: [Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/fouladi)
-
-: [Towards Demystifying Serverless Machine Learning Training](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod21-lambda-ml.pdf)
-
-
-: [Sprocket: A Serverless Video Processing Framework](https://dl.acm.org/doi/10.1145/3267809.3267815)  **(optional)**{: .label .label-yellow }
-
-: [Lambada: Interactive Data Analytics on Cold Data using Serverless Cloud Infrastructure](https://arxiv.org/abs/1912.00937)  **(optional)**{: .label .label-yellow }
+: [Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage](https://www.usenix.org/conference/osdi18/presentation/kulkarni) **(optional)**{: .label .label-yellow }
+  
+: **Project Checkpoint due**{: . .label .label-purple }

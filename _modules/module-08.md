@@ -1,40 +1,53 @@
 ---
-title: LLM serving
+title: Serverless AI
 ---
 
 
-**Week 10**
+**Week 12**
 
-10/27
+11/10
 
-: [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165)
+: [ServerlessLLM: Low-Latency Serverless Inference for Large Language Models](https://www.usenix.org/conference/osdi24/presentation/fu)
 
-: [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://www.usenix.org/conference/osdi24/presentation/lee)
-
-: [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview) **(optional but highly recommended)**{: .label .label-yellow }
+: [DEEPSERVE: Serverless Large Language Model Serving at Scale](https://www.usenix.org/conference/atc25/presentation/hu-junhao)
 
 
-10/29
+11/12
 
-: [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu)
+: [Towards Swift Serverless LLM Cold Starts with ParaServe](https://arxiv.org/pdf/2502.15524)
 
-: [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin)
+: [INFaaS: Automated Model-less Inference Serving](https://www.usenix.org/conference/atc21/presentation/romero)
 
 
 
-**Week 11**
+**Week 13**
 
-11/03
+11/17
 
-: [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal)
+: [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan)
 
-: [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://www.usenix.org/conference/osdi23/presentation/li-zhouhan)
+: [SLoRA: Scalable Serving of Thousands of LoRA Adapters](https://proceedings.mlsys.org/paper_files/paper/2024/file/906419cd502575b617cc489a1a696a67-Paper-Conference.pdf)
+
+: [Punica: Multi-Tenant LoRA Serving](https://proceedings.mlsys.org/paper_files/paper/2024/file/054de805fcceb78a201f5e9d53c85908-Paper-Conference.pdf) **(optional)**{: .label .label-yellow }
 
 
-11/05
+11/19
 
-: [SpotServe: Serving Generative Large Language Models on Preemptible Instances](https://arxiv.org/abs/2311.15566)
+: [BlitzScale: Fast and Live Large Model Autoscaling with O(1) Host Caching](https://www.usenix.org/conference/osdi25/presentation/zhang-dingyan)
 
-: [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin)
+: [PhoenixOS: Concurrent OS-level GPU Checkpoint and Restore with Validated Speculation](https://arxiv.org/abs/2405.12079)
 
-: [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](https://www.usenix.org/conference/osdi20/presentation/gujarati) **(optional)**{: .label .label-yellow }
+
+
+**Week 14**
+
+11/24
+
+: **Hack day (no class)**{: .label .label-blue }
+
+11/26
+
+: **Thanksgiving recess (no class)**{: .label .label-green }
+
+
+

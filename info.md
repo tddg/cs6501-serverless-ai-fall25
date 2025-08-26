@@ -46,9 +46,9 @@ This class uses the following review protocol:
 should read these two papers before the class, making sure to
 understand the key ideas, designs, findings, and conclusions. 
 
-* **Survey:** Fill out both surveys for the papers of that class. 
+* **Survey:** Fill out the survey for the papers of that class. 
 The survey needs to be submitted before the class. You are allowed 
-to miss at most **5** reviews without receiving penalty.
+to miss at most **5** surveys without receiving penalty.
 
 * **Note for Scriber:** Sign up as a paper scriber to capture the discussions
 of a paper. You should sign up as scriber for at least 3 paper

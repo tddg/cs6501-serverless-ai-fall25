@@ -114,8 +114,10 @@ a zero. If you’re worried about being busy around the time of a HW
 submission, please plan ahead and get started early.
   - **Assignment that does not compile or run will receive at most 50% credit.**
 
-> **IMPORTANT:** Please plan ahead and get started early! Debugging
-distributed systems can be time-consuming, even with AI's help. 
+> **IMPORTANT:** Debugging
+distributed systems can be time-consuming, even with AI's help.  You
+need experience to harness AI to make things right.  So, please plan
+ahead and get started early! 
 
 **For fairness to all, there are no exceptions to the above rules.**
 

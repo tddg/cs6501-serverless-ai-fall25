@@ -5,7 +5,7 @@ title: Introduction
 **Week 1**
 
 08/27
-: [Course introduction]()
+: [Course introduction](/cs6501-serverless-ai-fall25/assets/docs/lec1-intro.pdf)
 
 : Fill out [**background survey**](https://forms.gle/ZszZC3BZkChptrRy9){:target="\_blank"}
 

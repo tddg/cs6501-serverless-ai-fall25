@@ -101,7 +101,7 @@ presentations and contribute to post-presentation discussions.
 
 Late policy applies differently to review submissions and project submissions.
 
-* **For review submissions:** We **do not** accept late review
+* **For survey submissions:** We **do not** accept late 
 submissions as you already get 5 wild cards.
 
 * **For project submissions:** Your work is late if it is not turned in by the deadline.

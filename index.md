@@ -18,6 +18,10 @@ name: CS6501--Serverless AI
 
 ## Overview
 
+> **Note for undergrad students interested in taking this course:**
+Please send your latest CV to the instructor if you are interested in
+taking this course. 
+
 **Serverless computing** has emerged as a transformative paradigm in
 cloud computing, offering elastic pay-per-use compute abstractions
 that free developers from managing infrastructure. At the same time,

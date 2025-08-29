@@ -18,7 +18,7 @@ name: CS6501--Serverless AI
 
 ## Overview
 
-> **Note for undergrad students interested in taking this course:**
+> **Note for undergrad students:**
 Please send your latest CV to the instructor if you are interested in
 taking this course. 
 

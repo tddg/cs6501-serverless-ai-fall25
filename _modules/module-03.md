@@ -5,10 +5,12 @@ title: Cold starts
 
 09/17
 
-: [Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting](https://ipads.se.sjtu.edu.cn/_media/publications/catalyzer-asplos20.pdf)
+: [Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.usenix.org/conference/atc20/presentation/shahrad)
 
 : [Benchmarking, Analysis, and Optimization of Serverless Function Snapshots](https://arxiv.org/abs/2101.09355)
   
+: [Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting](https://ipads.se.sjtu.edu.cn/_media/publications/catalyzer-asplos20.pdf) **(optional)**{: . .label .label-yellow }
+
 : **Project Proposal due**{: . .label .label-purple }
 
 
@@ -21,6 +23,7 @@ title: Cold starts
 : [Fork in the Road: Reflections and Optimizations for Cold Start Latency in Production Serverless Systems](https://www.usenix.org/conference/osdi25/presentation/chai-xiaohu)
 
 : [SEUSS: skip redundant paths to make serverless fast](https://www.cs.bu.edu/~jappavoo/Resources/Papers/seuss.pdf) **(optional)**{: . .label .label-yellow }
+
 
 09/24
 

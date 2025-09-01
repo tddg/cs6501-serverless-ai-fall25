@@ -15,10 +15,10 @@ title: Introduction
 **Week 2**
 
 09/01
-: [Cloud computing]()
+: [Projects](https://edstem.org/us/courses/84432/discussion/6897181)
 
 09/03
-: [Serverless computing]() 
+: [Cloud computing]() 
   
 : **Team signup due**{: .label .label-purple } 
 

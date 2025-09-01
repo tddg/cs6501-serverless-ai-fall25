@@ -5,10 +5,8 @@ title: Function-as-a-Service platforms & workloads
 **Week 3**
 
 09/08
-: [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/conference/atc18/presentation/wang-liang)
 
-: [Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.usenix.org/conference/atc20/presentation/shahrad)
-
+: [Serverless Computing]()
 
 
 09/10
@@ -17,6 +15,7 @@ title: Function-as-a-Service platforms & workloads
 
 : [On-demand Container Loading in AWS Lambda](https://www.usenix.org/conference/atc23/presentation/brooker)
 
+: [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/conference/atc18/presentation/wang-liang) **(optional)**{: . .label .label-yellow }
 
 **Week 4**
 

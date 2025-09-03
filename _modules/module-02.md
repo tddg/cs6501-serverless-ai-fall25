@@ -8,6 +8,8 @@ title: Function-as-a-Service platforms & workloads
 
 : [Serverless Computing]()
 
+: Reading: [A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf)
+
 
 09/10
 

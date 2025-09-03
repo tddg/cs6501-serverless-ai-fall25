@@ -20,6 +20,7 @@ title: Introduction
 
 09/03
 : [Cloud computing](/cs6501-serverless-ai-fall25/assets/docs/lec3-cloud-fundamentals.pdf) 
+  : [Video](https://edstem.org/us/courses/84432/discussion/6907821)
 
 : Reading: [A Berkeley View on Cloud Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf);  [Cloudscape [FAST'25]](https://www.usenix.org/conference/fast25/presentation/satija)
  

@@ -17,8 +17,7 @@ title: Function-as-a-Service platforms & workloads
 
 : [On-demand Container Loading in AWS Lambda](https://www.usenix.org/conference/atc23/presentation/brooker)
 
-: **Survey questions**{: .label .label-blue } 
-  : [Link](https://edstem.org/us/courses/84432/discussion/6912987)
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/6912987)
 
 : [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/conference/atc18/presentation/wang-liang) **(optional)**{: . .label .label-yellow }
 

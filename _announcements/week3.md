@@ -4,6 +4,6 @@ week: 3
 date: 2025-09-07
 ---
 
-* Lecture 4's slides are posted.
+* Lecture 4's slides (Serverless Computing) are posted.
 
 {: .fs-5 }

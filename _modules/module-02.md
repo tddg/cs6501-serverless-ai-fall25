@@ -9,6 +9,7 @@ title: Function-as-a-Service platforms & workloads
 : [How to read research papers](/cs6501-serverless-ai-fall25/assets/docs/how-to-read-research-papers.pdf)
 
 : [Lec4: Serverless Computing](/cs6501-serverless-ai-fall25/assets/docs/lec4-serverless-computing.pdf)
+  : [Video](https://edstem.org/us/courses/84432/discussion/6930346)
 
 : Reading: [A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf)
 

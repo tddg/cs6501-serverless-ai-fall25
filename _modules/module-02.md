@@ -31,3 +31,5 @@ title: Function-as-a-Service platforms & workloads
 : [How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads](https://arxiv.org/abs/2312.10127)
 
 : [Characterizing Serverless Platforms with ServerlessBench](https://ipads.se.sjtu.edu.cn/_media/publications/yusocc20.pdf)
+
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/6961137)

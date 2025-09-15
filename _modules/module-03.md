@@ -5,10 +5,10 @@ title: Cold starts
 
 09/17
 
+: [Concurrency-Informed Orchestration for Serverless Functions](https://dl.acm.org/doi/10.1145/3676641.3716253 )
+
 : [Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.usenix.org/conference/atc20/presentation/shahrad)
 
-: [Benchmarking, Analysis, and Optimization of Serverless Function Snapshots](https://arxiv.org/abs/2101.09355)
-  
 : [Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting](https://ipads.se.sjtu.edu.cn/_media/publications/catalyzer-asplos20.pdf) **(optional)**{: . .label .label-yellow }
 
 : **Project Proposal due**{: . .label .label-purple }

@@ -13,8 +13,6 @@ title: Cold starts
 
 : **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/6969987)
 
-: **Project Proposal due**{: . .label .label-purple }
-
 
 **Week 5**
 
@@ -25,6 +23,8 @@ title: Cold starts
 : [Fork in the Road: Reflections and Optimizations for Cold Start Latency in Production Serverless Systems](https://www.usenix.org/conference/osdi25/presentation/chai-xiaohu)
 
 : [SEUSS: skip redundant paths to make serverless fast](https://www.cs.bu.edu/~jappavoo/Resources/Papers/seuss.pdf) **(optional)**{: . .label .label-yellow }
+
+: **Project Proposal due**{: . .label .label-purple }
 
 
 09/24

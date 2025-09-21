@@ -24,6 +24,8 @@ title: Cold starts
 
 : [SEUSS: skip redundant paths to make serverless fast](https://www.cs.bu.edu/~jappavoo/Resources/Papers/seuss.pdf) **(optional)**{: . .label .label-yellow }
 
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/6992520)
+
 : **Project Proposal due**{: . .label .label-purple }
 
 

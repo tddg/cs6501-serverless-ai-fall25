@@ -5,5 +5,6 @@ date: 2025-09-20
 ---
 
 * Survey for 09/22 is posted.
+* Survey for 09/24 is posted.
 
 {: .fs-5 }

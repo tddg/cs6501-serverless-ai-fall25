@@ -11,6 +11,9 @@ title: Serverless applications (parallel computing & programming)
 
 : [From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers](https://www.usenix.org/conference/atc19/presentation/fouladi)
 
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/7057209)
+
+
 
 10/08
 

@@ -8,7 +8,7 @@ title: Stateful serverless computing
 
 : [Faasm: Lightweight Isolation for Efficient Stateful Serverless Computing](https://www.usenix.org/conference/atc20/presentation/shillaker)
 
-: [NotebookOS: A Replicated Notebook Platform for Interactive Training with On-Demand GPUs](#)
+: [NotebookOS: A Replicated Notebook Platform for Interactive Training with On-Demand GPUs](https://arxiv.org/abs/2503.20591)
 
 : [Cloudburst: Stateful Functions-as-a-Service](https://www.vldb.org/pvldb/vol13/p2438-sreekanti.pdf)  **(optional)**{: . .label .label-yellow }
 

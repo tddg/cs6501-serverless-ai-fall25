@@ -21,6 +21,7 @@ title: Serverless applications (parallel computing & programming)
 
 : [Wukong: a scalable and locality-enhanced framework for serverless parallel computing](https://tddg.github.io/assets/pdf/socc20-wukong.pdf)
 
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/7078742)
 
 
 **Week 8**

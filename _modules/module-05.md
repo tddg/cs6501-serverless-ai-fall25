@@ -33,7 +33,7 @@ title: Serverless applications (parallel computing & programming)
 
 10/15
 
-: **Midterm Presentation**{: .label .label-purple} Project Reflection
+: **Midterm Project Checkpoint**{: .label .label-purple} Vibe Coding Day and Project Reflection
 
 
 **Week 9**
@@ -44,6 +44,7 @@ title: Serverless applications (parallel computing & programming)
 
 : [Towards Demystifying Serverless Machine Learning Training](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod21-lambda-ml.pdf)
 
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/7150028)
 
 : [Sprocket: A Serverless Video Processing Framework](https://dl.acm.org/doi/10.1145/3267809.3267815)  **(optional)**{: .label .label-yellow }
 

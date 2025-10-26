@@ -11,6 +11,8 @@ title: LLM serving
 
 : [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://www.usenix.org/conference/osdi24/presentation/lee)
 
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/7203975)
+
 : [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview) **(optional but highly recommended)**{: .label .label-yellow }
 
 

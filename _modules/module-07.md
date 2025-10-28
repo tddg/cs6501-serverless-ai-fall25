@@ -22,6 +22,7 @@ title: LLM serving
 
 : [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin)
 
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/7216928)
 
 
 **Week 11**

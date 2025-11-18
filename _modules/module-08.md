@@ -40,6 +40,7 @@ title: Serverless AI
 
 : [PhoenixOS: Concurrent OS-level GPU Checkpoint and Restore with Validated Speculation](https://arxiv.org/abs/2405.12079)
 
+: **Survey questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/84432/discussion/7327574)
 
 
 **Week 14**
